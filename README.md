@@ -37,4 +37,4 @@ The game starts with the runner and the chaser positioned at a distance from eac
 
 Players can control the runner's movements in manual mode or let the chaser and villain move automatically in different directions. The game provides feedback on whether the runner was caught or not.
 
-<img src="https://github.com/asadbek002/Text_recognition/blob/main/result.png" width="500" height="300">
+<img src="https://github.com/asadbek002/turtle_runaway_skeleton.py/blob/master/.idea/photo_2023-10-13_18-13-10.jpg" width="500" height="300">
